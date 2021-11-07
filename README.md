@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamArgt
-- 👀 I’m a Data Scientist at Dalkia, graduated from Ecole Centrale Paris and Imperial College Londond
+- 👀 I’m a Data Scientist at Dalkia, graduated from Ecole Centrale Paris and Imperial College London
 
 
 <!---
