@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, I’m Sam
 
+Visit my home page: https://samargt.github.io/
+
 I build tools that make everyday tasks easier, with projects spanning
 AI-assisted workflows, automation, and computer vision.
 
