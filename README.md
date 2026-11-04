@@ -3,7 +3,7 @@ SamArgt/SamArgt is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I’m Samuel
+# Hi, I’m Sam
 
 I build tools that make everyday tasks easier, with projects spanning
 AI-assisted workflows, automation, and computer vision.
