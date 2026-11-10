@@ -11,3 +11,5 @@ I build tools that make everyday tasks easier, with projects spanning
 AI-assisted workflows, automation, and computer vision.
 
 I use this space to share what I’m building and learning along the way.
+
+Explore my homelab: https://my-homelab.vercel.app/
